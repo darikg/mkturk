@@ -8,7 +8,7 @@ var DBX_CLIENT_ID = "2m9hmv7q45kwren"
 var DBX_REDIRECT_URI_ROOT = "https://dl.dropboxusercontent.com/spa/k79b8ph6lmcr30d/mkturk/public/"
 
 // ------ Subject settings ------ 
-var subjectlist = ["ExampleSubject"];
+var subjectlist = ["Eliaso"];
 
 // ------ Save location settings ------
 var DATA_SAVEPATH = "/mkturkfolders/datafiles/"
