@@ -6,6 +6,7 @@
 // MKTURK.HTML & LIVEPLOT.HTML
 var DBX_CLIENT_ID = "csz1hb6r343vkso"
 var DBX_REDIRECT_URI_ROOT = "https://darikg.gitlab.io/mkturk/public/"
+// var DBX_REDIRECT_URI_ROOT = "http://localhost:9999/" //local
 
 // ------ Subject settings ------ 
 var subjectlist = ["ExampleSubject"];
