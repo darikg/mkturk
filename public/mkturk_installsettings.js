@@ -6,10 +6,10 @@
 // MKTURK.HTML & LIVEPLOT.HTML
 var DBX_CLIENT_ID = "csz1hb6r343vkso"
 var DBX_REDIRECT_URI_ROOT = "https://darikg.github.io/mkturk/public/"
-// var DBX_REDIRECT_URI_ROOT = "http://localhost:9999/" //local
+//var DBX_REDIRECT_URI_ROOT = "http://localhost:9999/" //local
 
 // ------ Subject settings ------ 
-var subjectlist = ["ExampleSubject"];
+var subjectlist = ["Eliaso"];
 
 // ------ Save location settings ------
 var DATA_SAVEPATH = "/mkturkfolders/datafiles/"
